@@ -1,7 +1,7 @@
 # Tcp-Client-Server-using-select
  NETWORK PROGRAMMING SOCKET - TCP &amp; SERVER PROGRAM<br>
 ----------------------------------------<br>
-This how to test the project<br>
+This is how to test the project<br>
 -------------server side------------------------<br>
 1)Open a Terminal for the server<br>
 2)Compile and create an execute file :===> gcc -Wall server.c -o server<br>
